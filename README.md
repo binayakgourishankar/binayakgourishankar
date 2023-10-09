@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**binayakgourishankar/binayakgourishankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+#### Welcome!
 - 👋 Hi, I’m @binayakgourishankar.
 - 👀 I’m interested in Backend Engineering using Nodejs.
 - 🌱 I’m currently learning GrpahQL & Prisma.
